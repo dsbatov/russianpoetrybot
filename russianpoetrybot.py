@@ -97,7 +97,7 @@ def talk_to_me(bot, update):
 
 def main():
 #
-# 	mybot = Updater("735369145:AAFQ4hmTBLVNy48lLsoouUoXu52Vr4FWBlA", request_kwargs=PROXY)
+	# mybot = Updater("735369145:AAFQ4hmTBLVNy48lLsoouUoXu52Vr4FWBlA", request_kwargs=PROXY)
 	mybot = Updater("735369145:AAFQ4hmTBLVNy48lLsoouUoXu52Vr4FWBlA")
 
 
