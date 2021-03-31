@@ -14,7 +14,7 @@ telegram==0.0.1
 beautifulsoup4==4.7.1
 bs4==0.0.1
 lingcorpora==1.1
-lxml==4.3.4
+lxml==4.6.3
 soupsieve==1.9.1
 tqdm==4.32.2
 cmudict==0.4.2
